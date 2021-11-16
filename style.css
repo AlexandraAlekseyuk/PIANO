@@ -1,0 +1,51 @@
+html, body {
+    background-color: darkolivegreen;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+div {
+    width: max-content;
+    margin: 15% auto;
+}
+.white-keys kbd{
+    display: inline-block;
+    font-size: 24pt;
+    background-color: white;
+    border: 3px solid gray;
+    padding: 180px 30px 60px 30px;
+    margin: -3px;
+    font-family:'McLaren', cursive;
+}
+.black-keys kbd {
+    display: inline-block;
+    font-size: 18pt;
+    color: white;
+    background-color: black;
+    padding: 85px 18px 50px 18px;
+    margin: -3px;
+    font-family:'McLaren', cursive;
+    width: 20px;
+}
+.black-keys {
+    position: absolute;
+    top: 0;
+}
+.black-keys kbd:nth-child(1) {
+    margin-left: 3.5rem;
+}
+.black-keys kbd:nth-child(2) {
+    margin-left: 1.75rem;
+}
+
+.black-keys kbd:nth-child(3) {
+    margin-left: 7.5rem;
+}
+
+.black-keys kbd:nth-child(4) {
+    margin-left: 1.9rem;
+}
+
+.black-keys kbd:nth-child(5) {
+    margin-left: 1.9rem;
+}
