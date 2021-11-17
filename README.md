@@ -1,2 +1,2 @@
 Виртуальное пианино создано с помощью HTML, CSS и JS. Используйте свою клавиатуру, чтобы играть
-![alt text](Isolated.png "piano")
+![piano Image](piano.png)
